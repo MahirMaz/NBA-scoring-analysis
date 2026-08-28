@@ -1,0 +1,9 @@
+# The dataset is larger than GitHub's 100 MB file limit, so it is not committed.
+# Download it and place it in data/ (see data/SOURCE.md).
+data/*.xlsx
+data/*.csv
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
