@@ -7,7 +7,7 @@ statistical models for predicting player scoring.
 
 ## Dashboard
 
-Built in Power BI. The `.pbix` file is in `Dashboard/` if you want to open it yourself; the two pages
+Built in Power BI. The `.pbix` file is in `Dashboard/` if you want to open it yourself the two pages
 are below.
 
 ### Page 1: Evolution of NBA Scoring
