@@ -2,6 +2,7 @@
 # Download it and place it in data/ (see data/SOURCE.md).
 data/*.xlsx
 data/*.csv
+updated-datat/
 
 # R
 .Rhistory
